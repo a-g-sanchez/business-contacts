@@ -1,5 +1,4 @@
-# Will not work with alpine atm
-FROM node
+FROM node:18-alpine
 
 WORKDIR /app
 
